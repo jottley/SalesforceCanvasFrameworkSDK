@@ -9,7 +9,7 @@
     <artifactId>sfdc-canvas-sdk</artifactId>
 
     <properties>
-        <java.version>1.6</java.version>
+        <java.version>1.7</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -21,7 +21,7 @@
           <version>1.9.0</version>
         </dependency>
 
-        <!-- Newer version of this is needed for thew Base64 Encoding -->
+        <!-- Newer version of this is needed for Base64 Encoding -->
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
