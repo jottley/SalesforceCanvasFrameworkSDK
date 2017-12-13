@@ -7,3 +7,5 @@
 keystore
 target/
 .settings/
+.sts4-cache/
+.vscode/
